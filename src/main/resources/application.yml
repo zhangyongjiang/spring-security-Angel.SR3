@@ -1,0 +1,9 @@
+server:
+    port: 9020
+
+spring:
+    oauth2:
+        resource:
+            userInfoUri: http://apie.pr720.com:8081/auth/user
+
+    
